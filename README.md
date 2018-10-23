@@ -197,3 +197,82 @@ commutativity 可交换
 associative 可结合
 sloppy 草率
 exceedingly 非常
+slight 轻微
+twist 转变
+extemporaneous 即兴
+atone 赎罪
+affair 外遇
+unprecedented 史无前例
+propel 推进
+profile 轮廓
+litigators 诉讼
+witness 见证人
+prep 预备
+redistribution 再分配
+gunshot 枪击
+residue 残留
+billable 计费
+mentor 导师
+prominent 突出的
+baggage 行李
+quote 引用
+accused of 被控诉
+prosecution 检察官
+slam dunk 灌篮高手
+jury 陪审团
+deadlocked 僵持
+juror 陪审员
+convict 定罪
+attorney 检察官
+recognizance 承认
+innocence 无辜
+corporation 公司
+latte 牛奶
+hog 扭曲
+botched 拙劣的
+carjacking 汽车劫案
+disguised 掩饰
+custody 监护权
+freak out 惊慌
+hooker 妓女
+plaintiff 原告
+huddled up 蜷缩起来
+step in 插手
+retrial 重审
+honorable 尊敬的
+presiding 主持庭审
+esteemed 受人尊敬
+prejudice 偏见
+get a flat 爆胎
+pickup 敞篷
+acquittal 无罪释放
+superficial 表面的
+defense 辩护方
+contest 竞赛
+cage 笼子
+skit 片段
+testimony 证词
+breadwinner 养家糊口的人
+appellate 上诉的
+staple 订书钉
+subpoenas 传票
+surveillance 监控
+surfing porn 看毛片
+hearsay 道听途说的，传闻
+luxury 豪华
+slang 俚语
+corruption 腐败
+admissibility 受理
+ethical 合乎道德的
+entitled 骄傲
+reprimand 惩戒
+lotion 洗剂
+arthritic 关节炎的
+greyhound 灰猎犬
+circuit 巡逻
+demolish 拆除
+shield 挡着
+collateral 附属的
+smokescreen 烟雾弹
+heterogeneous 异构
+compensate 补偿
